@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ndi-Mzolisa
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Back-end development and automated development.
-- 💞️ I’m looking to collaborate on web development projects - UI, UX and Bac-end.
+- 💞️ I’m looking to collaborate on web development projects - UI, UX and Back-end.
 - 📫 How to reach me: Email -->(ndimandemzolisa@gmail.com)
 
 <!---
